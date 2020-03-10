@@ -25,7 +25,8 @@ body, html {
 body { 
 	background-color: #ffd9cc;
  }
-h1 {font-family: "Lato", sans-serif;}
+h1 {font-family: "Lato", sans-serif;
+	color: red;}
 p { font-family: "Lato", sans-serif; }
 body, html {
   height: 100%;
